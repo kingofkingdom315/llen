@@ -1,0 +1,24 @@
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\Ilen.exe.config
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\Ilen.exe
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\Ilen.pdb
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\EntityFramework.dll
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\EntityFramework.xml
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.csprojResolveAssemblyReference.cache
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.MainForm.resources
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.Properties.Resources.resources
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.csproj.GenerateResource.Cache
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.exe
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.pdb
+c:\users\stu-pksp117\documents\visual studio 2015\Projects\Ilen\Ilen\obj\Debug\Ilen.OffMat.resources
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.AddForm.resources
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.MainForm.resources
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.OffMat.resources
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.exe
+C:\Users\Lenovo\Desktop\Ilen\Ilen\obj\Debug\Ilen.pdb

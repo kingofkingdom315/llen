@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e084d9d64ce44b599904cf47be498f00" Name="Diagram1">
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.Material" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.MaterialOff" Width="1.5" PointX="9.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.MaterialProd" Width="1.5" PointX="9.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.MaterialType" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.Post" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.Post_Material" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.sysdiagram" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="pkspk217_KorkishkоModel.Warehouse" Width="1.875" PointX="7.25" PointY="3.5" IsExpanded="true" />
+        <AssociationConnector Association="pkspk217_KorkishkоModel.FK__Material__Price__1CF15040" ManuallyRouted="false" />
+        <AssociationConnector Association="pkspk217_KorkishkоModel.FK__Post_Mate__PostI__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="pkspk217_KorkishkоModel.FK__MaterialO__Price__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="pkspk217_KorkishkоModel.FK__MaterialP__Price__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="pkspk217_KorkishkоModel.FK__Post_Mate__PostI__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="pkspk217_KorkishkоModel.FK__Warehouse__AdDat__2B3F6F97" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
